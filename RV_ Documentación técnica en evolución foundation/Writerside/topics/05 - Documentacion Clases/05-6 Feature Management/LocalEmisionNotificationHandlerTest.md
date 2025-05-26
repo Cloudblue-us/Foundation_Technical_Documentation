@@ -1,4 +1,4 @@
-# Documentación Técnica: LocalEmisionNotificationHandlerTest.cls
+# LocalEmisionNotificationHandlerTest
 
 ## Descripción General
 `LocalEmisionNotificationHandlerTest` es una clase de prueba de Apex diseñada para validar el funcionamiento de la clase `LocalEmisionNotificationHandler`, que gestiona notificaciones de emisión local para productos.

@@ -1,4 +1,4 @@
-# Documentación Técnica: EventLog_Subset_CleanupBatchClass
+# EventLog_Subset_CleanupBatchClass
 
 ## Descripción General
 `EventLog_Subset_CleanupBatchClass` es una clase que implementa la interfaz `Database.Batchable<sObject>` de Salesforce. Esta clase está diseñada para ejecutar operaciones de eliminación en lotes sobre registros del objeto `EventLog_Subset__c` (inferido por el nombre de la clase), permitiendo procesar grandes volúmenes de datos de manera eficiente y dentro de los límites de gobernabilidad de la plataforma.

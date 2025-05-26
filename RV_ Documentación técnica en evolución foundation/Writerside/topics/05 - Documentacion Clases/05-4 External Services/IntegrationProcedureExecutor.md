@@ -1,4 +1,4 @@
-# Documentación Técnica: IntegrationProcedureExecutor
+# IntegrationProcedureExecutor
 
 ## Descripción General
 `IntegrationProcedureExecutor` es una interfaz global que define el contrato para la ejecución de procedimientos de integración. Esta interfaz establece un método estándar para invocar procedimientos de integración con parámetros de entrada y obtener resultados estructurados.

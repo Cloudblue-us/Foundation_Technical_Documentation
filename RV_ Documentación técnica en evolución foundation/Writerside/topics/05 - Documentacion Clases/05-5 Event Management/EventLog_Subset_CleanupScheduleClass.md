@@ -1,4 +1,4 @@
-# Documentación Técnica: EventLog_Subset_CleanupScheduleClass
+# EventLog_Subset_CleanupScheduleClass
 
 ## Descripción General
 `EventLog_Subset_CleanupScheduleClass` es una clase que implementa la interfaz `Schedulable` de Salesforce. Esta clase está diseñada para programar y ejecutar automáticamente la limpieza de registros antiguos del objeto `EventLog_Subset__c`, eliminando entradas que tienen más de un día de antigüedad.

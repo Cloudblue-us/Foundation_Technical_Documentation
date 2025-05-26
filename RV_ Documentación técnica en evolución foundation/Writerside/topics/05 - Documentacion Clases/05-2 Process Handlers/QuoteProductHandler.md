@@ -1,4 +1,4 @@
-# Documentación Técnica: QuoteProductHandler
+# QuoteProductHandler
 
 ## Descripción General
 `QuoteProductHandler` es una clase virtual global que extiende `ProductHandler`. Esta clase está diseñada para gestionar el proceso de cotización de productos mediante la ejecución de procedimientos de integración, validando la estructura de los datos de entrada y gestionando los resultados.

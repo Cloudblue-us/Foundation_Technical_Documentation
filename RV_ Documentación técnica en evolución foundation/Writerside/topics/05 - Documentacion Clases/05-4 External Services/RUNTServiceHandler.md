@@ -1,4 +1,4 @@
-# Documentación Técnica: RUNTServiceHandler
+# RUNTServiceHandler
 
 ## Descripción General
 `RUNTServiceHandler` es una clase virtual global que extiende `PlatformEventIntegrationObserver`. Esta clase está diseñada para manejar la integración con el servicio RUNT (Registro Único Nacional de Tránsito), permitiendo consultar información de vehículos a través de un servicio externo.

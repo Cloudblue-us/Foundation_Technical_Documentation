@@ -1,4 +1,4 @@
-# Documentación Técnica: ExternalServiceValidationException
+# ExternalServiceValidationException
 
 ## Descripción General
 `ExternalServiceValidationException` es una clase de excepción personalizada que extiende la clase base `Exception` de Apex. Esta excepción está diseñada específicamente para representar errores de validación que ocurren durante la interacción con servicios externos.

@@ -1,4 +1,4 @@
-# Documentación Técnica: EventLogManagerProvider
+# EventLogManagerProvider
 
 ## Descripción General
 `EventLogManagerProvider` es una clase que proporciona funcionalidad para generar registros de eventos de prueba o datos de muestra en el objeto Big Object `EventLog__b`. Esta clase está diseñada para facilitar la carga masiva de datos de eventos simulados con valores aleatorios dentro de un conjunto predefinido de opciones.

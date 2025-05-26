@@ -1,4 +1,4 @@
-# Documentación Técnica: LeadProductHandler
+# LeadProductHandler
 
 ## Descripción General
 `LeadProductHandler` es una clase virtual global que extiende `ProductHandler`. Esta clase está diseñada para manejar el procesamiento de leads como productos, siguiendo un patrón de diseño que facilita la creación y configuración flexible de objetos Lead en Salesforce.

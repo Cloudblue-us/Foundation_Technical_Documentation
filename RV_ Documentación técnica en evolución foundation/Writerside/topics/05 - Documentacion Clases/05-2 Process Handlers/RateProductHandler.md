@@ -1,4 +1,4 @@
-# Documentación Técnica: RateProductHandler.cls
+# RateProductHandler
 
 ## Descripción General
 `RateProductHandler` es una clase virtual global que extiende `ProductHandler` y se encarga de gestionar el proceso de calificación (rating) de un producto utilizando Integration Procedures.

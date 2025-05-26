@@ -1,4 +1,4 @@
-# Documentación Técnica: Adapter
+# Adapter
 
 ## Descripción General
 `Adapter` es una interfaz pública que define el contrato fundamental para el patrón de diseño Adaptador en el framework Foundation de Suratech. Esta interfaz establece un método estándar que permite adaptar diferentes tipos de servicios, APIs o sistemas externos a una estructura común de datos, facilitando la integración y el intercambio de información entre componentes heterogéneos.

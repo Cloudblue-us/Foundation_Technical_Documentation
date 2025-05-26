@@ -1,4 +1,4 @@
-# Documentación Técnica: LeadConfigurator
+# LeadConfigurator
 
 ## Descripción General
 `LeadConfigurator` es una interfaz global que define un contrato para clases que configuran objetos Lead en Salesforce. Esta interfaz forma parte del patrón de diseño Strategy, permitiendo encapsular diferentes algoritmos de configuración para Leads que pueden ser utilizados intercambiablemente.

@@ -1,4 +1,4 @@
-# Documentación Técnica: ResponsabilityHandler
+# ResponsabilityHandler
 
 ## Descripción General
 `ResponsabilityHandler` es una clase abstracta que implementa el patrón de diseño Chain of Responsibility (Cadena de Responsabilidad). Esta clase extiende `Subject`, lo que sugiere que también implementa el patrón Observer. La clase está diseñada para procesar objetos `Lead` según planes seleccionados, permitiendo encadenar múltiples handlers para formar un flujo de procesamiento.

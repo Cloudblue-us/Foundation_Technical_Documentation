@@ -1,4 +1,4 @@
-# Documentación Técnica: Core
+# Core
 
 ## Descripción General
 `Core` es una clase global utilitaria fundamental que proporciona funcionalidades básicas de debugging y monitoreo de límites del sistema Salesforce. Esta clase actúa como una biblioteca central de utilidades que es ampliamente utilizada en todo el framework Foundation de Suratech para registro de depuración y seguimiento del rendimiento del sistema.

@@ -1,4 +1,4 @@
-# Documentación Técnica: CCMServiceHandler
+# CCMServiceHandler
 
 ## Descripción General
 `CCMServiceHandler` es una clase virtual global que extiende `PlatformEventIntegrationObserver` y está diseñada para manejar la integración con servicios CCM (Customer Communication Management). Esta clase implementa un patrón de procesamiento en tres fases y proporciona capacidades especializadas para el envío de documentos a través de un sistema de mensajería con enrutamiento específico.

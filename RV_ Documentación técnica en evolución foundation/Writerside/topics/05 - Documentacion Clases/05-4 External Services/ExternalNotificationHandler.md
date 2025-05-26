@@ -1,4 +1,4 @@
-# Documentación Técnica: ExternalNotificationHandler
+# ExternalNotificationHandler
 
 ## Descripción General
 `ExternalNotificationHandler` es una clase virtual que extiende `PlatformEventIntegrationObserver` y está diseñada para manejar notificaciones a servicios externos. Esta clase implementa un mecanismo sofisticado de llamadas HTTP a servicios externos con capacidades de reintento, control de tiempos de espera, y registro de eventos de plataforma para monitoreo y depuración.

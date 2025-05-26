@@ -1,4 +1,4 @@
-# Documentación Técnica: QuotingException
+# QuotingException
 
 ## Descripción General
 `QuotingException` es una clase de excepción personalizada que extiende la clase `Exception` estándar de Apex. Esta clase está diseñada para representar errores específicos que ocurren durante los procesos de cotización en el sistema.

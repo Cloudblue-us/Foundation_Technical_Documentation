@@ -1,4 +1,4 @@
-# Documentación Técnica: ExternalServiceValidationUtil
+# ExternalServiceValidationUtil
 
 ## Descripción General
 `ExternalServiceValidationUtil` es una clase de utilidad que proporciona métodos para validar datos utilizados en servicios externos, específicamente enfocada en la validación de placas de vehículos y el registro de eventos de integración.

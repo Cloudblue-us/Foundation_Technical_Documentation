@@ -1,4 +1,4 @@
-# Documentación Técnica: IFeatureFlagProvider
+# IFeatureFlagProvider
 
 ## Descripción General
 `IFeatureFlagProvider` es una interfaz que define el contrato para proveedores de banderas de características (feature flags) en el sistema. Esta interfaz establece los métodos necesarios para acceder tanto a los nombres de permisos personalizados como a las configuraciones de banderas de características almacenadas en metadatos personalizados.

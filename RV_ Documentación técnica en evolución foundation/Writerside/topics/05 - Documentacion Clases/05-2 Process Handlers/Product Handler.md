@@ -5,7 +5,7 @@ author: Salesforce Architecture Team
 date: 2025-05-16
 ---
 
-# Objeto Personalizado: `Subconjunto Registro de Evento`
+# Objeto `Subconjunto Registro de Evento`
 Este objeto está destinado a registrar subconjuntos o trazabilidad de eventos internos, permitiendo una integración ordenada, monitoreo estructurado y separación de responsabilidades entre plataformas o procesos involucrados.
 
 ##  Información General

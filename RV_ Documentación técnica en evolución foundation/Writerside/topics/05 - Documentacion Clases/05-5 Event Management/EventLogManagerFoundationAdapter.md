@@ -1,4 +1,4 @@
-# Documentación Técnica: EventLogManagerFoundationAdapter
+# EventLogManagerFoundationAdapter
 
 ## Descripción General
 `EventLogManagerFoundationAdapter` es una clase abstracta global que proporciona una estructura base para la implementación de adaptadores de gestión de registros de eventos. Esta clase define una interfaz común para aplicar la lógica de registro de eventos, permitiendo diferentes implementaciones específicas a través de herencia.

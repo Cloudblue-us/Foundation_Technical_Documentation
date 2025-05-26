@@ -1,4 +1,4 @@
-# Handler: LeadProductHandler
+# LeadProductHandler
 
 Este handler gestiona el procesamiento de leads para diferentes productos, aplicando la lógica de negocio específica y preparando los datos para su procesamiento posterior.
 

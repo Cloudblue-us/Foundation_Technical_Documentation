@@ -1,4 +1,4 @@
-# Documentación Técnica: ProductHandlerImplementationException
+# ProductHandlerImplementationException
 
 ## Descripción General
 `ProductHandlerImplementationException` es una clase global de excepción personalizada que extiende la clase `Exception` estándar de Apex. Esta clase está diseñada específicamente para representar errores que ocurren durante la implementación y ejecución de manejadores de productos, proporcionando información adicional como códigos de error y códigos de estado HTTP.

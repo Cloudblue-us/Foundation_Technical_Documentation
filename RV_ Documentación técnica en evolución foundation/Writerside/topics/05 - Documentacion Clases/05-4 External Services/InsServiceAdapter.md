@@ -1,4 +1,4 @@
-# Documentación Técnica: InsServiceAdapter
+# InsServiceAdapter
 
 ## Descripción General
 `InsServiceAdapter` es una clase que implementa la interfaz `Adapter` y proporciona funcionalidad para interactuar con servicios de Vlocity Insurance. Esta clase actúa como un adaptador que facilita la comunicación entre el sistema Salesforce y los servicios de seguros externos, específicamente para acceder a productos calificados (rated products).

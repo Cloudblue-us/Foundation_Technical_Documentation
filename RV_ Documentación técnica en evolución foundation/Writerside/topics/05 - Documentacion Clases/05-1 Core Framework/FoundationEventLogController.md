@@ -1,4 +1,4 @@
-# Documentación Técnica: FoundationEventLogController
+# FoundationEventLogController
 
 ## Descripción General
 `FoundationEventLogController` es una clase que actúa como controlador para componentes Lightning Web Components (LWC) o Aura Components, proporcionando funcionalidad de gestión de registros de eventos y trabajos programados. Esta clase expone métodos anotados con `@AuraEnabled` para permitir la interacción desde el frontend con las funcionalidades de análisis de eventos y programación de tareas de limpieza.

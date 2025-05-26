@@ -1,4 +1,4 @@
-# Documentación Técnica: LeadBuilderFoundation
+# LeadBuilderFoundation
 
 ## Descripción General
 `LeadBuilderFoundation` es una clase global que implementa el patrón de diseño Builder para crear y configurar objetos Lead de manera fluida en Salesforce. Esta clase permite encadenar métodos para establecer diferentes atributos del Lead y aplicar configuradores personalizados antes de construir e insertar el registro.

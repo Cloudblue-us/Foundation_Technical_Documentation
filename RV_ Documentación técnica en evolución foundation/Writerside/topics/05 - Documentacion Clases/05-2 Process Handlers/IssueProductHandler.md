@@ -1,4 +1,4 @@
-# Documentación Técnica: IssueProductHandler
+# IssueProductHandler
 
 ## Descripción General
 `IssueProductHandler` es una clase virtual global que extiende `ProductHandler` y está diseñada para manejar la emisión de productos de seguros a través de procedimientos de integración. Esta clase implementa la lógica necesaria para validar datos, asignar cuentas a cotizaciones y gestionar el proceso de emisión de pólizas.

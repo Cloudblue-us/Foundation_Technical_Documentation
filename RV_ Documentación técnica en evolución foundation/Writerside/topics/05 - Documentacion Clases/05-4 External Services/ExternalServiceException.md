@@ -1,4 +1,4 @@
-# Documentación Técnica: ExternalServiceException
+# ExternalServiceException
 
 ## Descripción General
 `ExternalServiceException` es una clase de excepción personalizada que extiende la clase `Exception` estándar de Apex. Esta clase está diseñada para representar errores específicos que ocurren durante la interacción con servicios externos.

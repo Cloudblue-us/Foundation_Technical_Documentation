@@ -1,4 +1,4 @@
-# Documentación Técnica: ProductHandlerNotImplementedException
+# ProductHandlerNotImplementedException
 
 ## Descripción General
 `ProductHandlerNotImplementedException` es una clase de excepción personalizada que extiende la clase `Exception` estándar de Apex. Esta clase está diseñada para representar errores específicos que ocurren cuando se intenta utilizar un manejador de productos que no ha sido implementado correctamente o cuando se intenta acceder a funcionalidades no implementadas dentro de un manejador de productos.

@@ -1,4 +1,4 @@
-# Documentación Técnica: CumuloMissingParameterException
+# CumuloMissingParameterException
 
 ## Descripción General
 `CumuloMissingParameterException` es una clase de excepción personalizada que extiende la clase `Exception` estándar de Apex. Esta clase está diseñada específicamente para representar errores que ocurren cuando faltan parámetros requeridos en operaciones relacionadas con el framework Cumulo o procesos específicos que requieren validación de parámetros obligatorios.

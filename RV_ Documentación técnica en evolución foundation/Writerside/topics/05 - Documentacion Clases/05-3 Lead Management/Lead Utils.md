@@ -1,4 +1,4 @@
-# Clase: LeadUtils
+# LeadUtils
 
 Esta clase proporciona utilidades para la gestión y manipulación de objetos Lead, facilitando la búsqueda, recuperación y conversión de datos relacionados con leads.
 

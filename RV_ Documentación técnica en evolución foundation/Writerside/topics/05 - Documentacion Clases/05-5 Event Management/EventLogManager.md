@@ -1,4 +1,4 @@
-# Documentación Técnica: EventLogManager
+# EventLogManager
 
 ## Descripción General
 `EventLogManager` es una clase global con sharing que proporciona funcionalidad completa para la gestión de registros de eventos en el sistema. Esta clase maneja tanto Big Objects (`EventLog__b`) como objetos personalizados estándar (`EventLog_Subset__c`), ofreciendo capacidades de consulta, guardado, análisis y limpieza de logs de eventos.

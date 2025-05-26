@@ -1,4 +1,4 @@
-# Documentación Técnica: GenerateURLServiceHandler
+# GenerateURLServiceHandler
 
 ## Descripción General
 `GenerateURLServiceHandler` es una clase virtual global que extiende `PlatformEventIntegrationObserver` y está diseñada para manejar la integración con servicios externos para la generación de URLs. Esta clase implementa un patrón de procesamiento en tres fases (pre-proceso, proceso principal y post-proceso) y proporciona capacidades de publicación de eventos de plataforma para monitoreo y auditoría.

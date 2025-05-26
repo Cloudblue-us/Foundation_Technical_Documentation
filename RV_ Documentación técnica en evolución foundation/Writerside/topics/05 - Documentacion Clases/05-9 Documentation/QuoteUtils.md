@@ -1,4 +1,4 @@
-# Documentación Técnica: QuoteUtils
+# QuoteUtils
 
 ## Descripción General
 `QuoteUtils` es una clase virtual global que proporciona utilidades para trabajar con cotizaciones (Quote) en Salesforce. Esta clase ofrece métodos para validar, actualizar y consultar cotizaciones, así como para establecer relaciones entre cotizaciones, cuentas y oportunidades.

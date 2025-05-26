@@ -1,4 +1,4 @@
-# Documentación Técnica: CustomMetadataCallback
+# CustomMetadataCallback
 
 ## Descripción General
 `CustomMetadataCallback` es una clase que implementa la interfaz `Metadata.DeployCallback` de Salesforce. Esta clase está diseñada para manejar los resultados de operaciones de despliegue de metadatos personalizados, proporcionando funcionalidad de callback que se ejecuta cuando una operación de despliegue de metadatos se completa (exitosa o fallida).

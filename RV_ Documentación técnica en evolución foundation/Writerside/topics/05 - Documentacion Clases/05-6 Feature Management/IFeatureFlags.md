@@ -1,4 +1,4 @@
-# Documentación Técnica: IFeatureFlags
+# IFeatureFlags
 
 ## Descripción General
 `IFeatureFlags` es una interfaz que define el contrato para la evaluación de banderas de características (feature flags) en el sistema. Esta interfaz establece el método necesario para evaluar si una característica específica está habilitada o no, devolviendo un resultado detallado de la evaluación.
