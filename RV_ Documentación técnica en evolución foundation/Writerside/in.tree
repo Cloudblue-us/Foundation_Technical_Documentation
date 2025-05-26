@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE instance-profile
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
+
+<instance-profile id="in"
+                 name="Instance Name" start-page="Catalogo de Clases Documentadas.md">
+
+    <toc-element topic="Catalogo de Clases Documentadas.md"/>
+    <toc-element toc-title="01 - Alcance y Limitaciones">
+        <toc-element topic="01 - Alcance y Limitaciones.md"/>
+    </toc-element>
+    <toc-element toc-title="02 - Arquitectura General">
+        <toc-element topic="Arquitectura General.md"/>
+    </toc-element>
+    <toc-element toc-title="03 - Patrones de Diseño">
+        <toc-element topic="Patrones de Diseño.md"/>
+    </toc-element>
+    <toc-element toc-title="04 - Modelo de Datos">
+        <toc-element topic="Modelo de Datos.md"/>
+    </toc-element>
+    <toc-element toc-title="05 - Documentacion Clases">
+        <toc-element toc-title="05-1 Core Framework">
+            <toc-element topic="ResponsabilityHandler.md"/>
+            <toc-element topic="FoundationEventLogController.md"/>
+            <toc-element topic="Core.md"/>
+            <toc-element topic="BaseProcessManager.md"/>
+            <toc-element topic="BaseProcessFoundationVlocityAdapter.md"/>
+            <toc-element topic="BaseObserver.md"/>
+            <toc-element topic="Adapter.md"/>
+        </toc-element>
+        <toc-element toc-title="05-2 Process Handlers">
+            <toc-element topic="RateProductHandler.md"/>
+            <toc-element topic="QuoteProductHandler.md"/>
+            <toc-element topic="ProductHandlerNotImplementedException.md"/>
+            <toc-element topic="ProductHandlerImplementationException.md"/>
+            <toc-element topic="Product Handler.md"/>
+            <toc-element topic="LeadProductHandler.md"/>
+            <toc-element topic="IssueProductHandler.md"/>
+        </toc-element>
+        <toc-element toc-title="05-3 Lead Management">
+            <toc-element topic="LeadConfigurator.md"/>
+            <toc-element topic="LeadBuilderFoundation.md"/>
+            <toc-element topic="Lead Utils.md"/>
+            <toc-element topic="Lead Handler.md"/>
+        </toc-element>
+        <toc-element toc-title="05-4 External Services">
+            <toc-element topic="RUNTWrapper.md"/>
+            <toc-element topic="RUNTServiceHandler.md"/>
+            <toc-element topic="LocalEmisionNotificationHandler.md"/>
+            <toc-element topic="IntegrationProcedureExecutor.md"/>
+            <toc-element topic="InsServiceAdapter.md"/>
+            <toc-element topic="GenerateURLServiceHandler.md"/>
+            <toc-element topic="ExternalServiceValidationUtil.md"/>
+            <toc-element topic="ExternalServiceValidationException.md"/>
+            <toc-element topic="ExternalServiceException.md"/>
+            <toc-element topic="ExternalNotificationHandler.md"/>
+            <toc-element topic="CCMServiceHandler.md"/>
+        </toc-element>
+        <toc-element toc-title="05-5 Event Management">
+            <toc-element topic="MetaDataUtils.md"/>
+            <toc-element topic="LocalEmisionHandlerMock.md"/>
+            <toc-element topic="EventLog_Subset_CleanupScheduleClass.md"/>
+            <toc-element topic="EventLog_Subset_CleanupBatchClass.md"/>
+            <toc-element topic="EventLogManagerProvider.md"/>
+            <toc-element topic="EventLogManagerFoundationAdapter.md"/>
+            <toc-element topic="EventLogManager.md"/>
+            <toc-element topic="CustomMetadataCallback.md"/>
+            <toc-element topic="CumuloMissingParameterException.md"/>
+        </toc-element>
+        <toc-element toc-title="05-6 Feature Management">
+            <toc-element topic="LocalEmisionNotificationHandlerTest.md"/>
+            <toc-element topic="IFeatureFlags.md"/>
+            <toc-element topic="IFeatureFlagProvider.md"/>
+            <toc-element topic="FeatureFlags.md"/>
+            <toc-element topic="FeatureFlagProvider.md"/>
+        </toc-element>
+        <toc-element toc-title="05-7 Account Management">
+            <toc-element topic="AccountConfigurator.md"/>
+            <toc-element topic="AccountBuilder.md"/>
+        </toc-element>
+        <toc-element toc-title="05-9 Documentation">
+            <toc-element topic="QuotingException.md"/>
+            <toc-element topic="QuoteUtils.md"/>
+        </toc-element>
+    </toc-element>
+    <toc-element toc-title="06 - APIs y Endpoints">
+        <toc-element topic="APIs y Endpoints.md"/>
+    </toc-element>
+    <toc-element toc-title="07 - Guias de Implementacion">
+        <toc-element topic="Guía de Implementación.md"/>
+    </toc-element>
+    <toc-element topic="Documentacion_procesos_foundation.md"/>
+</instance-profile>
